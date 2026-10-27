@@ -1,0 +1,9 @@
+{
+  "autor": {
+    "nombre": "Santiago López"
+  },
+  "proyecto": {
+    "nombre": "API-Colombia GraphQL",
+    "repositorio": "https://github.com/Nelopez013/evaluacion_graphql"
+  }
+}
